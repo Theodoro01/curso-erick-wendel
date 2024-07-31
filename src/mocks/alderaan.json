@@ -8,7 +8,7 @@
     "terrain": "grasslands, mountains",
     "surface_water": "40",
     "population": "2000000000",
-    "residents": [
+    "residents": [ 
         "https://swapi.dev/api/people/5/",
         "https://swapi.dev/api/people/68/",
         "https://swapi.dev/api/people/81/"

@@ -8,7 +8,7 @@ const mocks = {
     alderaan: require('./mocks/alderaan.json')
 }
 
-async function test () {
+async function test () { 
     // {
     //     const service = new Service();
     //     const withoutStub = await service.jmakeRequest(BASE_URL_2);

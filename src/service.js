@@ -8,7 +8,7 @@ class Service {
             }) 
         })
     }
-
+ 
     async getPlanets(url) {
         const result = await this.makeRequest(url)
         return {
